@@ -2,18 +2,14 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ethan J Hughes
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MPH
+      institution: Harvard T.H. Chan School of Public Health
+      year: 2018
       description:
         - Description 1.
         - Description 2.
@@ -21,77 +17,171 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BS - Biology and Chemistry
+      institution: University of North Carolina at Chapel Hill
+      year: 2014
       description:
         - Description 1.
         - Description 2.
+    - title: AS
+      institution: Wake Tech Community College
+      year: 2012
+      description:
+        - Description 1.
+        - Description 2
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Data Analyst
+      institution: Healthwise
+      year: 2019 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Promoted in 2022
+        - Develop data life cycle, and outcomes life cycle then work with product operations to integrate both life cycles into the product life cycle
+        - Collaborated with Product Owners to create KPIs for new products
+        - Collect, synthesize and monitor data during EA periods to ensure GA product readiness
+        - Demonstrate product ROI to senior leadership and client stakeholders
+        - Managed a monthly data report-out to senior leadership
+        - Co-led 7 hackathons with 70%+ leading to production level outputs
+        - Presented at national conferences
+        - Collaborated with data engineers to liberate the data and level-up the organization from death-by-spreadsheet
+        - Lead analytics teams through complex analyses from problem-scoping through methods selection and model evaluation to results dissemination
+        - Collaborate with clients to develop automated pipelines for clinical data ETL from Epic and Cerner
+        - "Generated high value applied analytics projects using Python, R, SQL, and DAX. Including: KPI analyses, benchmarking, quality improvement analyses, predictive analyses, text mining, cluster analyses, multivariate analyses, etc."
+        - "Perform exploratory data analysis (EDA) on complex healthcare datasets including: clinical, claims, quality, codes (ICD-10, CPT), SDOH and population demographics"
+        - Combine external data with internal data to track high value outcomes including readmissions, visit follow-up, clinical (med adherence, A1C, weight, etc), and product use to support quality improvement initiatives at client sites
+        - Design in-app qualitative collection methods, and analyze patient reported outcomes to develop product-centric insights
+        - Utilize data lake + data base infrastructure to design production-ready models using Synapse and pyspark
+        - Collaborated and consulted on the company's first enterprise data model
+        - Utilized the newly developed enterprise data model to develop and deliver 17 cross-team and company-wide core report sets using PowerBI
+        - Co-built the company's master product utilization report using PowerBI and surfaced it as a PowerBI app
+        - Collaborated with clients to identify quality improvement opportunities and enhance their data capabilities via weekly calls
+    - title: Research Assistant
+      institution: Harvard T.H. Chan School of Public Health
+      year: 2017-2019
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        -  Generated underlying data and supported model development for health and climate benefits of renewable energy projects utilizing both Avoided Emissions geneRation Tool (AVERT) and the Estimating Air pollution Social Impact Using Regression model (EASIUR)
+        - Co-authored an overview of the life cycle health and environmental impacts of the fossil fuel industry
+        - Initiated grid storage modeling to evaluate the political, economic, environmental, and health impacts of replacing the Harvard Steam Plant with renewables plus storage
+    - title: "Intern: Resilient, High Performance Buildings & Communities"
+      institution: Northeast Energy Efficiency Partnerships (NEEP)
+      year: 2018
+      description: 
+        - Developed the 2018 Regional Residential Labeling Action Plan for the Northeast region
+        - Supported 2018 Annual NEEP Summit, NEEP Resilient High-Performance Communities Leadership Forum, and NEEP Regional Residential Labeling Workshop
+        - Co-lead the 2018 Annual NEEP Summit Student Mentorship program
+    - title: Clinical Trials Assistant
+      institution: IQVIA (Formerly Quintiles)
+      year: 2016-2017
       description:
+      - Supported Investigational New Drug, Phase I, Phase II, and Phase III clinical pharmaceutical trials in immunology, neurology, and oncology
+      - Ensured clinical site compliance with Institutional Review Board, and US Food and Drug Administration requirements
+      - Prepared final trial master file for delivery to client
+    - title: Clinical Trials Assistant
+      institution: Duke Clinical Research Institute (DCRI)
+      year: 2016
+      description:
+      - Trained investigational sites on study specific protocols, materials, and databases
+      - Managed, received, tracked, and updated all compliance related documents within the Trial Master File system
+      - Assisted with development of study related documents including Protocol, CMP, DEG, TMF plan, Trial Master File Database, and lab manuals.
+      - Provided support for the network Pharmacokinetics/Pharmacodynamics committee.
+    - title: Banquet and Events Manager
+      institution: Governors Club Country Club
+      year: 2014-2016
+      description:
+      - Managed staff groups of up to 15 members, including development and execution of staffing assignment in accordance with event timelines
+      - Meet with customers to understand, develop, and execute their vision prior to and throughout each event
+      - Represented the company at external career fairs
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Certifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Applied Data Science
+      institution: Massachusetts Institute of Technology (MIT)
+      year: 2022
+      description: Certification in the fundamentals of data science with deep understanding of practical applications
 
-- title: Honors and Awards
+- title: Volunteer Activities
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Consultant
+      institution: "Unidos por Utuado via Harvard Law School Climate Solutions Living Lab"
+      year: 2018-2019
+      description:
+      - Designed and pitched a solution to provide an underserved community in Puerto Rico with a reliable, clean, hurricane-resilient source of power in the wake of Hurricane Maria
+      - Project handed off to local community leaders in Utuado
+      - Unidos por Utuado cooperative created and seed funding won via Puerto Rician Innovation Competition
+    - title: Outreach and Education Staff
+      institution: The Scrap Exchange
+      year: 2017
+      description: 
+      -  Educated community members and new team members about recycling practices and principles while encouraging creative reuse of discarded materials
+      - Lead creative events where children can use scrap materials to create art to foster a creative and environmentally friendly mindset among community members
+  - title: Assistant Coach
+      institution: Fuquay-Varina High School Lacrosse
+      year: 2015
+      description: 
+      - Volunteer coach for first year varsity high school program, helped teach players necessary skills, helped coach games, helped analyze game film, acted as a role-model both on and off the field
+  - title: Head coach
+      institution: Goblins Lacrosse League
+      year: 2012-2015
+      description: 
+      - Directly supported founder during leage conception
+      - Taught children the necessary skills to become a successful player, developed players both individually and as a team
+      - Prepared select players for All-American teams.
+      - "Worked with children from grades K-8; head coach of 3-4 grade, and 5-6 grade teams; assisted with K-2 and middle school teams."
 
-- title: Academic Interests
+
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Coding
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python
+        - PySpark
+        - NumPy
+        - Pandas
+        - Matplotlib
+        - Seaborn
+        - sklearn
+        - tensorflow
+        - R
+        - Tidyverse
+        - SQL
+        - Dax
+        - Git
+    - title: Technologies
       items:
-        - Description 1.
-        - Description 2.
+        - Azure 
+        - BigQuery
+        - Databricks
+        - Data APIs
+        - Excel
+        - GitHub
+        - Looker
+        - Jupyter
+        - Microsoft Office Suite
+        - PowerBI
+        - Snowflake
+        - Synapse
+        - VSCode
+    - title: Data Types
+      items:
+        - Claims data
+        - Clinical data
+        - "Electronic Health Record (EHR): Cerner and Epic"
+        - Electricity data
+        - Energy Information Administration (EIA) data
+        - Finanical data
+        - Patient reported outcomes data
+        - Survey data
+        - Telemetry data
+        - User experience data
+      
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Los Angeles Chargers Football, UNC Basketball & Lacrosse, Personal Fitness, Global Markets, Board Games, RPGs, Birds, Cars, etc.
