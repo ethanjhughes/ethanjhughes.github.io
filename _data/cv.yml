@@ -3,7 +3,6 @@
   contents:
     - name: Full Name
       value: Ethan J Hughes
-
 - title: Education
   type: time_table
   contents:
@@ -29,7 +28,6 @@
       description:
         - Description 1.
         - Description 2
-
 - title: Experience
   type: time_table
   contents:
@@ -93,7 +91,6 @@
       - Managed staff groups of up to 15 members, including development and execution of staffing assignment in accordance with event timelines
       - Meet with customers to understand, develop, and execute their vision prior to and throughout each event
       - Represented the company at external career fairs
-
 - title: Certifications
   type: time_table
   contents:
@@ -101,7 +98,6 @@
       institution: Massachusetts Institute of Technology (MIT)
       year: 2022
       description: Certification in the fundamentals of data science with deep understanding of practical applications
-
 - title: Volunteer Activities
   type: time_table
   contents:
@@ -116,14 +112,14 @@
       institution: The Scrap Exchange
       year: 2017
       description: 
-      -  Educated community members and new team members about recycling practices and principles while encouraging creative reuse of discarded materials
+      - Educated community members and new team members about recycling practices and principles while encouraging creative reuse of discarded materials
       - Lead creative events where children can use scrap materials to create art to foster a creative and environmentally friendly mindset among community members
-  - title: Assistant Coach
+    - title: Assistant Coach
       institution: Fuquay-Varina High School Lacrosse
       year: 2015
       description: 
       - Volunteer coach for first year varsity high school program, helped teach players necessary skills, helped coach games, helped analyze game film, acted as a role-model both on and off the field
-  - title: Head coach
+    - title: Head coach
       institution: Goblins Lacrosse League
       year: 2012-2015
       description: 
@@ -131,9 +127,6 @@
       - Taught children the necessary skills to become a successful player, developed players both individually and as a team
       - Prepared select players for All-American teams.
       - "Worked with children from grades K-8; head coach of 3-4 grade, and 5-6 grade teams; assisted with K-2 and middle school teams."
-
-
-
 - title: Skills
   type: nested_list
   contents:
